@@ -1,0 +1,11 @@
+src/
+├── assets/              # Images, icons
+├── components/          # Reusable components (e.g., ProductCard, Navbar)
+├── pages/               # Page components (e.g., Home, ProductDetails)
+├── hooks/               # Custom hooks (e.g., useFetchProducts)
+├── types/               # TypeScript interfaces (e.g., Product.ts)
+├── context/             # Context API setup (e.g., CartContext)
+├── styles/              # Global CSS or Tailwind overrides
+├── utils/               # Helper functions (e.g., API calls)
+├── App.tsx              # Main app with routes
+├── main.tsx             # Entry point
